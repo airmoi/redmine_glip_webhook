@@ -1,7 +1,7 @@
 Redmine Glip WebHook Plugin
 ======================
 
-UDNDER CONSTRUCTION !
+UNDER CONSTRUCTION !
 DO not USE !!
 
 A Redmine plugin to posts to glip webhook.
